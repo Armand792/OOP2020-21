@@ -21,6 +21,7 @@ class WordScramble:
         # this only makes sense if you have a world that is longer than 3
 
     print('hello')
+    print('chao')
         # now try to scramble one sentence
         # do just words first, then you can move on to work on
         # punctuation
