@@ -20,7 +20,7 @@ class WordScramble:
         # and the last two
         # this only makes sense if you have a world that is longer than 3
 
-
+    print('hello')
         # now try to scramble one sentence
         # do just words first, then you can move on to work on
         # punctuation
